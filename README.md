@@ -1,4 +1,4 @@
-# data analyst 
+# Data analyst 
 
 
 ### Education
