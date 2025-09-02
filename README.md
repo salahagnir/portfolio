@@ -3,7 +3,9 @@
 
 👋 Hi, I’m Salah—a Data Analytics professional with an MSc in Data Analytics. I specialize in transforming data into insights using Python, SQL, Machine Learning, and Business Intelligence tools like Power BI.
 
----
+## 🛠 Technical Tools & Languages
+Python | SQL | Power BI | Excel VBA | Scikit-learn | Pandas | Matplotlib | Seaborn | Dash | Statistics
+
 
 ## 🔹 Projects
 
@@ -14,7 +16,9 @@
 🔍 **Overview:** Built classification models to analyze and predict outcomes from structured datasets.
 
 📈 **Result:** Achieved high accuracy with Random Forest and Naïve Bayes, showcasing strong feature engineering and model tuning.
-👉 [View Project](#)
+
+👉  [View Project](https://github.com/yourusername/project1)
+
 
 ### 2️⃣ Visual Basic Data Automation (VB\_CA2)
 
@@ -23,7 +27,9 @@
 🔍 **Overview:** Automated repetitive Excel tasks to process and format business data.
 
 📈 **Result:** Improved reporting speed and reduced manual work significantly.
-👉 [View Project](#)
+
+👉 [View Project](https://github.com/yourusername/project1)
+
 
 ### 3️⃣ Statistical Analysis Project (Statis\_24\_12\_2024.ipynb)
 
@@ -32,7 +38,9 @@
 🔍 **Overview:** Performed statistical analysis to explore dataset distributions and trends.
 
 📈 **Result:** Identified correlations and key patterns that informed further predictive modeling.
-👉 [View Project](#)
+
+👉 [View Project](https://github.com/yourusername/project1)
+
 
 ### 4️⃣ Applied Statistics (Statistics.ipynb)
 
@@ -41,7 +49,9 @@
 🔍 **Overview:** Applied statistical methods to test assumptions and validate findings.
 
 📈 **Result:** Provided insights into data distributions and hypothesis outcomes for better decision-making.
-👉 [View Project](#)
+
+👉 [View Project](https://github.com/yourusername/project1)
+
 
 ### 5️⃣ Machine Learning for Data Analytics
 
@@ -50,7 +60,9 @@
 🔍 **Overview:** Built supervised learning models for predictive analytics on structured datasets.
 
 📈 **Result:** Developed accurate predictive models and identified key drivers of outcomes.
-👉 [View Project](#)
+
+👉 [View Project](https://github.com/yourusername/project1)
+
 
 ### 6️⃣ Power BI Dashboard Project
 
@@ -59,7 +71,9 @@
 🔍 **Overview:** Built interactive dashboards, covering data loading, report building, and customization.
 
 📈 **Result:** Delivered a complete business report dashboard, demonstrating the full Power BI workflow from installation to reporting.
-👉 [View Project](#)
+
+👉 [View Project](https://github.com/yourusername/project1)
+
 
 ---
 
@@ -72,8 +86,9 @@ These projects reflect my journey through **data cleaning → analysis → visua
 ## 🔹 Contact
 
 📧 [dublinsalah1@gmail.com](mailto:dublinsalah1@gmail.com)
-🔗 [LinkedIn](#)
-🔗 [GitHub](#)
+🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+🔗 [GitHub](https://github.com/yourusername)
+
 
 ---
 
