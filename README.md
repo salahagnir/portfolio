@@ -4,12 +4,12 @@
 👋 Hi, I’m Salah—a Data Analytics professional with an MSc in Data Analytics. I specialize in transforming data into insights using Python, SQL, Machine Learning, and Business Intelligence tools like Power BI.
 
 ## 🛠 Technical Tools & Languages
-Python | SQL | Power BI | Excel VBA | Scikit-learn | Pandas | Matplotlib | Seaborn | Dash | Statistics
+Python | SQL | Power BI | Excel | Scikit-learn | Pandas | Matplotlib | Seaborn | Dash | Statistics
 
 
 ## 🔹 Projects
 
-### 1️⃣ Machine Learning Classification (ML\_CA2.ipynb)
+### 1️⃣ Machine Learning ()
 
 📌 **Skills:** Python, scikit-learn, Pandas, Matplotlib
 
@@ -17,10 +17,10 @@ Python | SQL | Power BI | Excel VBA | Scikit-learn | Pandas | Matplotlib | Seabo
 
 📈 **Result:** Achieved high accuracy with Random Forest and Naïve Bayes, showcasing strong feature engineering and model tuning.
 
-👉  [View Project](https://github.com/yourusername/project1)
+👉  [View Project]([https://github.com/yourusername/project1](https://github.com/salahagnir/CA/blob/main/ML_CA2.ipynb))
 
 
-### 2️⃣ Visual Basic Data Automation (VB\_CA2)
+### 2️⃣ Visual Basic Data Automation ()
 
 📌 **Skills:** VBA, Excel Automation
 
@@ -28,7 +28,7 @@ Python | SQL | Power BI | Excel VBA | Scikit-learn | Pandas | Matplotlib | Seabo
 
 📈 **Result:** Improved reporting speed and reduced manual work significantly.
 
-👉 [View Project](https://github.com/yourusername/project1)
+👉 [View Project]([https://github.com/yourusername/project1](https://github.com/salahagnir/CA/blob/main/Machine_learning_for_Data_Analytics.ipynb))
 
 
 ### 3️⃣ Statistical Analysis Project (Statis\_24\_12\_2024.ipynb)
@@ -39,7 +39,7 @@ Python | SQL | Power BI | Excel VBA | Scikit-learn | Pandas | Matplotlib | Seabo
 
 📈 **Result:** Identified correlations and key patterns that informed further predictive modeling.
 
-👉 [View Project](https://github.com/yourusername/project1)
+👉 [View Project]([https://github.com/yourusername/project1](https://github.com/salahagnir/CA/blob/main/CA2_Statistics_30_12.ipynb))
 
 
 ### 4️⃣ Applied Statistics (Statistics.ipynb)
@@ -50,7 +50,7 @@ Python | SQL | Power BI | Excel VBA | Scikit-learn | Pandas | Matplotlib | Seabo
 
 📈 **Result:** Provided insights into data distributions and hypothesis outcomes for better decision-making.
 
-👉 [View Project](https://github.com/yourusername/project1)
+👉 [View Project]([https://github.com/yourusername/project1](https://github.com/salahagnir/CA/blob/main/Statistics.ipynb))
 
 
 ### 5️⃣ Machine Learning for Data Analytics
@@ -61,7 +61,7 @@ Python | SQL | Power BI | Excel VBA | Scikit-learn | Pandas | Matplotlib | Seabo
 
 📈 **Result:** Developed accurate predictive models and identified key drivers of outcomes.
 
-👉 [View Project](https://github.com/yourusername/project1)
+👉 [View Project]([https://github.com/yourusername/project1](https://github.com/salahagnir/CA1-S2/blob/master/S%26Pstocks28.22(1).ipynb))
 
 
 ### 6️⃣ Power BI Dashboard Project
@@ -72,7 +72,7 @@ Python | SQL | Power BI | Excel VBA | Scikit-learn | Pandas | Matplotlib | Seabo
 
 📈 **Result:** Delivered a complete business report dashboard, demonstrating the full Power BI workflow from installation to reporting.
 
-👉 [View Project](https://github.com/yourusername/project1)
+👉 [View Project]([https://github.com/yourusername/project1](https://github.com/salahagnir/Power-BI/blob/main/PBI3.pbix))
 
 
 ---
