@@ -36,20 +36,21 @@ Python | SQL | Power BI | Excel | Scikit-learn | Pandas | Matplotlib | Seaborn |
 📌 **Skills:** Python, Pandas, Matplotlib, Seaborn, SciPy, NumPy, Binomial Distribution, Poisson Distribution, Data Visualization, Outlier Detection
 
 🔍 **Overview:** Conducted statistical analysis on Ireland’s immigration data to understand trends and patterns. Visualized the data using distribution plots, box plots, and bar charts. Assessed skewness and identified outliers, while keeping them to capture unique immigration events. Applied probability distributions—including Binomial and Poisson—to model the likelihood of approved immigration applications and quantify expected outcomes.
+
 📈 **Result:** The analysis revealed a right-skewed distribution, indicating periods with higher immigration inflows. Gender-based migration patterns were similar. Binomial and Poisson models highlighted the most probable number of approved applications, with extreme cases remaining rare but informative. Insights from this analysis provide a clear understanding of immigration trends and inform policy planning.
 
 👉 [View Project](https://colab.research.google.com/drive/1E75nrQOf0C73kEJlL7MWiWB_mU7kEOdA)
 
 
-### 4️⃣ Applied Statistics (Statistics.ipynb)
+### 4️⃣ Data Visualization – Luas Passenger Journeys Analysis
 
-📌 **Skills:** Python, Hypothesis Testing, Probability, Visualization
+📌 **Skills:** Python, Pandas, Seaborn, Matplotlib, Data Visualization, Exploratory Data Analysis (EDA), Correlation Analysis
 
-🔍 **Overview:** Applied statistical methods to test assumptions and validate findings.
+🔍 **Overview:** Analyzed weekly passenger journey data for the Luas tram lines, including year, week number, line, and journey counts. Used pairplots, distribution plots, heatmaps, and boxplots to explore patterns, correlations, and outliers. Focused on identifying trends over time and significant fluctuations in passenger journeys.
 
-📈 **Result:** Provided insights into data distributions and hypothesis outcomes for better decision-making.
+📈 **Result:** The analysis revealed a bimodal distribution of passenger journeys, highlighting two distinct peaks. Weak positive correlation (0.08) between year and journey counts suggested gradual increases over time. Outliers corresponding to unusual transport events or holidays were retained, providing insights into exceptional variations affecting passenger journeys.
 
-👉 [View Project]([https://github.com/yourusername/project1](https://github.com/salahagnir/CA/blob/main/Statistics.ipynb))
+👉 [View Project](https://colab.research.google.com/drive/1XkW8bCykkI_q8kQjX8p_ObdM43OGYZ_y)
 
 
 ### 5️⃣ Machine Learning for Data Analytics
