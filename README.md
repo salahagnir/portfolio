@@ -9,13 +9,13 @@ Python | SQL | Power BI | Excel | Scikit-learn | Pandas | Matplotlib | Seaborn |
 
 ## 🔹 Projects
 
-### 1️⃣ Machine Learning ()
+### 1️⃣ Machine Learning – Recipe Review Sentiment Analysis
 
-📌 **Skills:** Python, scikit-learn, Pandas, Matplotlib
+📌 **Skills:** Python, scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Natural Language Processing (NLP)
 
-🔍 **Overview:** Built classification models to analyze and predict outcomes from structured datasets.
+🔍 **Overview:** Developed machine learning models to predict whether online recipe reviews are positive or negative. The process included cleaning textual data, converting text into numerical features using TF-IDF, and training Logistic Regression, Naive Bayes, and Random Forest classifiers. Incorporated insights from interviews with hotel managers to understand feedback analysis in practice.
 
-📈 **Result:** Achieved high accuracy with Random Forest and Naïve Bayes, showcasing strong feature engineering and model tuning.
+📈 **Result:** Random Forest achieved the highest performance with an accuracy of 98.26%, precision of 98.27%, and recall of 98.26%. The study demonstrated effective sentiment classification, highlighted key patterns in user feedback, and provided actionable insights for improving recipe recommendations.
 
 👉  [View Project](https://drive.google.com/file/d/12ZWXfzEpGIOCg3jKHxfQnxy2vgHsFUYz/view?usp=sharing)
 
@@ -28,7 +28,7 @@ Python | SQL | Power BI | Excel | Scikit-learn | Pandas | Matplotlib | Seaborn |
 
 📈 **Result:** Improved reporting speed and reduced manual work significantly.
 
-👉 [View Project]([https://github.com/yourusername/project1](https://github.com/salahagnir/CA/blob/main/Machine_learning_for_Data_Analytics.ipynb))
+👉 [View Project]([[https://github.com/yourusername/project1](https://github.com/salahagnir/CA/blob/main/Machine_learning_for_Data_Analytics.ipynb)](https://drive.google.com/file/d/1N1IY3akjGTTJjBG-Z5q1MXLEv6cJDEEp/view?usp=sharing))
 
 
 ### 3️⃣ Statistical Analysis Project (Statis\_24\_12\_2024.ipynb)
