@@ -20,7 +20,7 @@ Python | SQL | Power BI | Excel | Scikit-learn | Pandas | Matplotlib | Seaborn |
 👉  [View Project](https://drive.google.com/file/d/12ZWXfzEpGIOCg3jKHxfQnxy2vgHsFUYz/view?usp=sharing)
 
 
-### 2️⃣ Visual Basic Data Automation ()
+### 2️⃣ Machine Learning – Immigration Trends Analysis
 
 📌 **Skills:** Python, scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Gradient Boosting, Random Forest, Linear Regression, SVR, K-Means, GridSearchCV, StandardScaler
 
@@ -28,7 +28,7 @@ Python | SQL | Power BI | Excel | Scikit-learn | Pandas | Matplotlib | Seaborn |
 
 📈 **Result:** Gradient Boosting Regression achieved the lowest Mean Squared Error (MSE), indicating the most accurate predictions and best fit for capturing non-linear immigration patterns. Insights from this project can guide policymakers by highlighting potential fluctuations in migration trends, enabling proactive and data-driven decision-making.
 
-👉 [View Project]([[https://github.com/yourusername/project1](https://github.com/salahagnir/CA/blob/main/Machine_learning_for_Data_Analytics.ipynb)](https://drive.google.com/file/d/1N1IY3akjGTTJjBG-Z5q1MXLEv6cJDEEp/view?usp=sharing))
+👉 [View Project](https://drive.google.com/file/d/1N1IY3akjGTTJjBG-Z5q1MXLEv6cJDEEp/view?usp=sharing)
 
 
 ### 3️⃣ Statistical Analysis Project (Statis\_24\_12\_2024.ipynb)
