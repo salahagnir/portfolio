@@ -64,15 +64,24 @@ Python | SQL | Power BI | Excel | Scikit-learn | Pandas | Matplotlib | Seaborn |
 👉 [View Project](https://colab.research.google.com/drive/1_DlYWFTFwfgyvYR5VhJpcTWtfIbP8qoe)
 
 
-### 6️⃣ Power BI Dashboard Project
+### 6️⃣ Predictive Analysis of S&P 500 – Neural Networks & Time Series Modeling
 
-📌 **Skills:** Power BI, Data Visualization, Dashboard Design
+📌 **Skills:** Python, Time Series Analysis, ARIMA, LSTM, CNN, ANN, Big Data (Hadoop & Spark), Data Visualization, Git, CRISP-DM, Feature Engineering
 
-🔍 **Overview:** Built interactive dashboards, covering data loading, report building, and customization.
+🔍 **Overview:** Performed predictive analysis on S&P 500 daily data (2010–2017) using neural networks and time series models. Applied ARIMA, LSTM, CNN, and ANN models to forecast stock movements. Utilized CRISP-DM methodology to guide business understanding, data preparation, modeling, evaluation, and deployment. Big data tools (Hadoop, Spark, HBase) and Ubuntu VMs were used for storage and processing. Git managed code versioning and collaboration.
 
-📈 **Result:** Delivered a complete business report dashboard, demonstrating the full Power BI workflow from installation to reporting.
 
-👉 [View Project]([https://github.com/yourusername/project1](https://github.com/salahagnir/Power-BI/blob/main/PBI3.pbix))
+📈 **Result:** LSTM and CNN models captured sequential patterns effectively for short-term forecasting.
+
+ARIMA provided reliable predictions for trends and seasonal effects.
+
+Machine learning models highlighted key factors influencing S&P 500 movements, helping reduce investment risk and improve decision-making.
+
+Big data infrastructure enabled efficient storage and processing of large datasets, streamlining analysis.
+
+The project demonstrated end-to-end predictive analytics workflow, from raw data to actionable financial insights.
+
+👉 [View Project](https://colab.research.google.com/drive/1a97adVHGVFmy46aXisEfIDT5f48EmPp_)
 
 
 ---
