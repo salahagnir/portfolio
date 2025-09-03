@@ -17,7 +17,7 @@ Python | SQL | Power BI | Excel | Scikit-learn | Pandas | Matplotlib | Seaborn |
 
 📈 **Result:** Achieved high accuracy with Random Forest and Naïve Bayes, showcasing strong feature engineering and model tuning.
 
-👉  [View Project]([https://github.com/yourusername/project1](https://github.com/salahagnir/CA/blob/main/ML_CA2.ipynb))
+👉  [View Project](https://drive.google.com/file/d/12ZWXfzEpGIOCg3jKHxfQnxy2vgHsFUYz/view?usp=sharing)
 
 
 ### 2️⃣ Visual Basic Data Automation ()
