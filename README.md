@@ -94,10 +94,7 @@ These projects reflect my journey through **data cleaning → analysis → visua
 
 ## 🔹 Contact
 
-📧 [dublinsalah1@gmail.com](dublinsalah1@gmail.com)
-🔗 [LinkedIn](linkedin.com/in/salah-agnir)
-🔗 [GitHub](: github.com/salahagnir)
-
+📧 [Email](dublinsalah1@gmail.com ) | 🔗 [LinkedIn](https://www.linkedin.com/in/salah-agnir/) | 💻 [GitHub](github.com/salahagnir)
 
 ---
 
