@@ -53,15 +53,15 @@ Python | SQL | Power BI | Excel | Scikit-learn | Pandas | Matplotlib | Seaborn |
 👉 [View Project](https://colab.research.google.com/drive/1XkW8bCykkI_q8kQjX8p_ObdM43OGYZ_y)
 
 
-### 5️⃣ Machine Learning for Data Analytics
+### 5️⃣ Predictive Analytics and Machine Learning Insights
 
-📌 **Skills:** Python, Machine Learning, scikit-learn, Data Preparation
+📌 **Skills:** Python, Pandas, NumPy, scikit-learn, Seaborn, Matplotlib, ARIMA, SARIMAX, Gradient Boosting, Random Forest, Support Vector Regression (SVR), K-Means, GridSearchCV, PRAW, TextBlob
 
-🔍 **Overview:** Built supervised learning models for predictive analytics on structured datasets.
+🔍 **Overview:** Applied multiple machine learning models for forecasting, regression, clustering, and sentiment analysis. Performed data merging, preprocessing, feature selection, and model evaluation using metrics like RMSE, MAE, accuracy, precision, and recall.
 
-📈 **Result:** Developed accurate predictive models and identified key drivers of outcomes.
+📈 **Result:** Compared model performance, identified overfitting/underfitting issues, and provided actionable insights on data trends, predictions, and sentiment. Random Forest showed the best predictive accuracy; SARIMA improved seasonal forecasts; sentiment analysis revealed key text insights from Reddit.
 
-👉 [View Project]([https://github.com/yourusername/project1](https://github.com/salahagnir/CA1-S2/blob/master/S%26Pstocks28.22(1).ipynb))
+👉 [View Project](https://colab.research.google.com/drive/1_DlYWFTFwfgyvYR5VhJpcTWtfIbP8qoe)
 
 
 ### 6️⃣ Power BI Dashboard Project
