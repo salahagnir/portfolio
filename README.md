@@ -39,7 +39,7 @@ Python | SQL | Power BI | Excel | Scikit-learn | Pandas | Matplotlib | Seaborn |
 
 📈 **Result:** Identified correlations and key patterns that informed further predictive modeling.
 
-👉 [View Project]([https://github.com/yourusername/project1](https://github.com/salahagnir/CA/blob/main/CA2_Statistics_30_12.ipynb))
+👉 [View Project](https://colab.research.google.com/drive/1N1IY3akjGTTJjBG-Z5q1MXLEv6cJDEEp)
 
 
 ### 4️⃣ Applied Statistics (Statistics.ipynb)
