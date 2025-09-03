@@ -17,7 +17,7 @@ Python | SQL | Power BI | Excel | Scikit-learn | Pandas | Matplotlib | Seaborn |
 
 📈 **Result:** Random Forest achieved the highest performance with an accuracy of 98.26%, precision of 98.27%, and recall of 98.26%. The study demonstrated effective sentiment classification, highlighted key patterns in user feedback, and provided actionable insights for improving recipe recommendations.
 
-👉  [View Project](https://drive.google.com/file/d/12ZWXfzEpGIOCg3jKHxfQnxy2vgHsFUYz/view?usp=sharing)
+👉  [View Project](https://colab.research.google.com/drive/12ZWXfzEpGIOCg3jKHxfQnxy2vgHsFUYz)
 
 
 ### 2️⃣ Machine Learning – Immigration Trends Analysis
@@ -28,7 +28,7 @@ Python | SQL | Power BI | Excel | Scikit-learn | Pandas | Matplotlib | Seaborn |
 
 📈 **Result:** Gradient Boosting Regression achieved the lowest Mean Squared Error (MSE), indicating the most accurate predictions and best fit for capturing non-linear immigration patterns. Insights from this project can guide policymakers by highlighting potential fluctuations in migration trends, enabling proactive and data-driven decision-making.
 
-👉 [View Project](https://drive.google.com/file/d/1N1IY3akjGTTJjBG-Z5q1MXLEv6cJDEEp/view?usp=sharing)
+👉 [View Project](https://colab.research.google.com/drive/1N1IY3akjGTTJjBG-Z5q1MXLEv6cJDEEp)
 
 
 ### 3️⃣ Statistics & Probability – Immigration Data Analysis
