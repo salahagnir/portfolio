@@ -31,15 +31,14 @@ Python | SQL | Power BI | Excel | Scikit-learn | Pandas | Matplotlib | Seaborn |
 👉 [View Project](https://drive.google.com/file/d/1N1IY3akjGTTJjBG-Z5q1MXLEv6cJDEEp/view?usp=sharing)
 
 
-### 3️⃣ Statistical Analysis Project (Statis\_24\_12\_2024.ipynb)
+### 3️⃣ Statistics & Probability – Immigration Data Analysis
 
-📌 **Skills:** Python, Statistics, Pandas, Visualization
+📌 **Skills:** Python, Pandas, Matplotlib, Seaborn, SciPy, NumPy, Binomial Distribution, Poisson Distribution, Data Visualization, Outlier Detection
 
-🔍 **Overview:** Performed statistical analysis to explore dataset distributions and trends.
+🔍 **Overview:** Conducted statistical analysis on Ireland’s immigration data to understand trends and patterns. Visualized the data using distribution plots, box plots, and bar charts. Assessed skewness and identified outliers, while keeping them to capture unique immigration events. Applied probability distributions—including Binomial and Poisson—to model the likelihood of approved immigration applications and quantify expected outcomes.
+📈 **Result:** The analysis revealed a right-skewed distribution, indicating periods with higher immigration inflows. Gender-based migration patterns were similar. Binomial and Poisson models highlighted the most probable number of approved applications, with extreme cases remaining rare but informative. Insights from this analysis provide a clear understanding of immigration trends and inform policy planning.
 
-📈 **Result:** Identified correlations and key patterns that informed further predictive modeling.
-
-👉 [View Project](https://colab.research.google.com/drive/1N1IY3akjGTTJjBG-Z5q1MXLEv6cJDEEp)
+👉 [View Project](https://colab.research.google.com/drive/1E75nrQOf0C73kEJlL7MWiWB_mU7kEOdA)
 
 
 ### 4️⃣ Applied Statistics (Statistics.ipynb)
