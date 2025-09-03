@@ -22,11 +22,11 @@ Python | SQL | Power BI | Excel | Scikit-learn | Pandas | Matplotlib | Seaborn |
 
 ### 2️⃣ Visual Basic Data Automation ()
 
-📌 **Skills:** VBA, Excel Automation
+📌 **Skills:** Python, scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Gradient Boosting, Random Forest, Linear Regression, SVR, K-Means, GridSearchCV, StandardScaler
 
-🔍 **Overview:** Automated repetitive Excel tasks to process and format business data.
+🔍 **Overview:** Applied the CRISP-DM framework to analyze migration data using supervised machine learning. The project involved data understanding, preprocessing, modeling, evaluation, and interpretation. Key input features included Year, Age Group, Sex, Inward/Outward Flow, and Unit, with migration VALUE as the target variable. Models used included Linear Regression, Random Forest Regression, and Gradient Boosting Regression.
 
-📈 **Result:** Improved reporting speed and reduced manual work significantly.
+📈 **Result:** Gradient Boosting Regression achieved the lowest Mean Squared Error (MSE), indicating the most accurate predictions and best fit for capturing non-linear immigration patterns. Insights from this project can guide policymakers by highlighting potential fluctuations in migration trends, enabling proactive and data-driven decision-making.
 
 👉 [View Project]([[https://github.com/yourusername/project1](https://github.com/salahagnir/CA/blob/main/Machine_learning_for_Data_Analytics.ipynb)](https://drive.google.com/file/d/1N1IY3akjGTTJjBG-Z5q1MXLEv6cJDEEp/view?usp=sharing))
 
