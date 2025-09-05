@@ -1,5 +1,5 @@
 
-### Salah Agnir – Data Analytics Portfolio
+### Data Analytics & Machine Learning Portfolio
 
 👋 Hi, I’m Salah—a Data Analytics professional with an MSc in Data Analytics. I specialize in transforming data into insights using Python, SQL, Machine Learning, and Business Intelligence tools like Power BI.
 
